@@ -24,7 +24,6 @@ Below is the output when run on my machine with 100 million simulations:
     
 	Isaac:		00.00%  00.00%  00.00%  14.29%  14.29%  14.29%  14.28%  14.29%  14.29%  14.28%
 
-
 	June:		00.00%  00.00%  00.00%  14.29%  14.29%  14.29%  14.29%  14.28%  14.28%  14.29%
 
 	Sam:		16.67%  16.67%  16.67%  07.15%  07.14%  07.14%  07.14%  07.14%  07.14%  07.15%
@@ -46,7 +45,7 @@ Below is the output when run on my machine with 100 million simulations:
     
     The official order is...
     
-    	1 )	 Shashank
+    1 )	 Shashank
 	
 	2 )	 Chris R
 	
